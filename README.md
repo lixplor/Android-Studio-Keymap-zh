@@ -4,11 +4,11 @@
 Android Studio shortcut keymap for mac in simplified Chinese. 
 Suitable for setting as a wallpaper of MBP.
 
-- Resolution: 6720*4200 (13.3')
+- Resolution: 4800*3000 (13.3')
 
 
 > **Note:**
-> Some shortcuts may be conflicted with Mac shortcuts.
+> Some shortcuts may be conflicted with Mac shortcuts, such as `F1` etc. You may need to use `Fn` combine with them.
 
 
 ## Keymap
